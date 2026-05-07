@@ -35,10 +35,7 @@ frontend/
 
 ##  Installation
 
-### Clone the repository
-```bash
-git clone <your-repository-link>
-```
+
 
 ### Backend setup
 ```bash
